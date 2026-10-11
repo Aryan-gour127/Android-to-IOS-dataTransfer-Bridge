@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+.venv/
+venv/
+.env
+
+# IDE
+.vscode/
+.idea/
+
+# Test / coverage
+.pytest_cache/
+.coverage
+htmlcov/
+
+# WhatsAppBridge user data — never commit chats or media
+workspace/
+exports/
+chat-exports/
+*.sqlite
+*.sqlite3
+*.db
+*.log
