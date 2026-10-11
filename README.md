@@ -1,4 +1,4 @@
-# 💚 WhatsAppBridge
+# Android-to-IOS-dataTransfer-Bridge
 
 ### 🌉 Your WhatsApp memories, organized.
 
@@ -8,9 +8,9 @@ A privacy-first Windows desktop app built with **Python** to help you organize W
 
 ---
 
-## 🌷 What's WhatsAppBridge?
+## 🌷 What's Android-to-IOS-dataTransfer-Bridge?
 
-Switching phones shouldn't mean losing track of your memories. 💌
+Switching phones shouldn't mean losing track of your memories.
 
 WhatsAppBridge aims to make your exported WhatsApp conversations easier to organize, read, search, and preserve — while keeping your personal data on your computer by default.
 
@@ -92,8 +92,8 @@ WhatsAppBridge/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/WhatsAppBridge.git
-cd WhatsAppBridge
+git clone https://github.com/Aryan-gour127/Android-to-IOS-dataTransfer-Bridge
+cd Android-to-IOS-dataTransfer-Bridge
 ```
 
 ### 2. Create a virtual environment
@@ -118,7 +118,7 @@ python -m pip install --upgrade pip
 
 ## 🔒 Privacy Comes First
 
-Your chats and personal media deserve care. 💚
+Your chats and personal media deserve care. 
 
 WhatsAppBridge is designed around these principles:
 
@@ -162,4 +162,4 @@ WhatsAppBridge is an evolving project exploring a safer, more transparent way to
 
 ---
 
-<sub>Made with 💚, Python, and a little hope for easier phone migration.</sub>
+<sub>Made with curiosity, Python, and a little hope for easier phone migration.</sub>
